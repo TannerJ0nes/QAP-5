@@ -1,0 +1,38 @@
+[
+    {
+        "firstname": "Patrick",
+        "lastname": "Star",
+        "gender": "Starfish",
+        "city": "bikini bottom"
+    },
+    {
+        "firstname": "Spongebob",
+        "lastname": "Squarepants",
+        "gender": "Sponge",
+        "city": "bikini bottom"
+    },
+    {
+        "firstname": "Sandy",
+        "lastname": "Cheeks",
+        "gender": "Female Squirrel",
+        "city": "bikini bottom"
+    },
+    {
+        "firstname": "Tanner",
+        "lastname": "Jones",
+        "gender": "Male",
+        "city": "St.Johns"
+    },
+    {
+        "firstname": "Billy",
+        "lastname": "Joe",
+        "gender": "Male",
+        "city": "Calgary"
+    },
+    {
+        "firstname": "Sam",
+        "lastname": "Smith",
+        "gender": "Female",
+        "city": "Halifax"
+    }
+  ]
